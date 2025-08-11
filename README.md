@@ -1,2 +1,2 @@
-# sudoku-
+# Sudoku Finder
 solving the sudoku 
