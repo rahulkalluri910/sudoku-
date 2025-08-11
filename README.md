@@ -1,0 +1,2 @@
+# sudoku-
+solving the sudoku 
